@@ -1,2 +1,6 @@
 # airis
-A project that combines the advantages of the human eye and a camera
+A project that combines the advantages of the human eye and a camera.
+Проект для создания искусственного глаза, который совмещает в себе преимущества человеческого глаза и камеры.
+
+# Предварительный список сопутствующих библиотек для тестирвоания
+Gaze-LLE - для определяния направления взгляда людей на изображении
